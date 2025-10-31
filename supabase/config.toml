@@ -1,0 +1,4 @@
+project_id = "fxsbwhecylznmnzhxcrj"
+
+[functions.generate-logo]
+verify_jwt = false
